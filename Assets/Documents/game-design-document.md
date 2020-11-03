@@ -2,9 +2,9 @@
 
 ## Project Concept
 ### 1. Player Control
-You control the architect in this side view game where arrow keys and mouse makes the player moves the player around the screen in all directions
+You control the architect in this side view game where arrow keys and mouse makes the player moves around the screen in all directions
 ### 2. Basic Gameplay
-During the game, the architect can build facilities on the screen and the goal of the game is to build a working  moon station
+During the game, the architect can build facilities on the screen and the goal of the game is to build a working moon station
 ### 3. Sound and Effects
 There will be sounds effects when the architect build/destroy facilities and station lifecycle generates sounds.
 Particle effects will be displayed when build/destroy or lifecycle event happens.
@@ -18,9 +18,9 @@ The buildings will be unlocked whenever a the requirements are met.
 The resources will increase whenever a facility finishes production.
 At the start of the game, the title Moonshot will appear and the game will never end.
 ### 6. Other Features
-Tutorial for the first few steps
-Start Menu with selecting a moon station name
-Minimal animation before the tutorial
+Tutorial for the first few steps.
+Start Menu with selecting a moon station name.
+Minimal animation before the tutorial.
 
 ## Project Timeline
 | Milestone | Description |
